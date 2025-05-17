@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
           <div class="modal-section">
             <div class="modal-promo">
               <div class="promo-header">
-                <h3>Эксклюзивное предложение <span class="promo-badge">Только у нас</span></h3>
+                <h3>Эксклюзивное предложение</h3>
               </div>
               <div class="promo-details">
                 <div class="promo-item">
